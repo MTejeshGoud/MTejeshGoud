@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtejeshgoud&label=Profile%20views&color=0e75b6&style=flat" alt="mtejeshgoud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtejeshgoud" alt="mtejeshgoud" /></a> </p>
+<p align="left"> <a href="https://github.com/MTejeshGoud/">MTejeshGoud</a></p>
 
 - 🌱 I’m currently learning **Deep Learning**
 
